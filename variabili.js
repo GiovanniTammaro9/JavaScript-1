@@ -14,3 +14,12 @@ let number = 5;
     }
     console.log(number);
 
+    let outside = 10; {
+        let inside = 12;
+        console.log(outside);
+        console.log(inside);
+    }
+
+    console.log(outside);
+    console.log(inside);
+
