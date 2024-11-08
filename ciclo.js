@@ -10,3 +10,12 @@ for (let riga = 0; riga <= LimiteDelFor; riga = riga + 2) {
 }
 
 console.log(totale3);
+
+let a;
+
+do {
+    a = prompt("Salve");
+
+}while(a.length<5);
+
+console.log(a);
