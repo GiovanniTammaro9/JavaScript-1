@@ -18,4 +18,4 @@ do {
 
 }while(a.length<5);
 
-console.log(a);
+console.log("hai inserito una parola valida",a);
